@@ -1,6 +1,7 @@
 [![Travis](https://travis-ci.org/elastic/beats.svg?branch=master)](https://travis-ci.org/elastic/beats)
 [![GoReportCard](http://goreportcard.com/badge/elastic/beats)](http://goreportcard.com/report/elastic/beats)
 [![codecov.io](https://codecov.io/github/elastic/beats/coverage.svg?branch=master)](https://codecov.io/github/elastic/beats?branch=master)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fbeats.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fbeats?ref=badge_shield)
 
 # Beats - The Lightweight Shippers of the Elastic Stack
 
@@ -85,3 +86,7 @@ your dev environment to build Beats from the source.
 ## Snapshots
 
 For testing purposes, we generate snapshot builds that you can find [here](https://beats-ci.elastic.co/job/elastic+beats+master+multijob-package-linux/lastSuccessfulBuild/gcsObjects/). Please be aware that these are built on top of master and are not meant for production.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fbeats.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fbeats?ref=badge_large)
